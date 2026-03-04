@@ -31,3 +31,5 @@ else:
 
 if result is not None:
     print("Result:", result)
+    print("Thank you for using my calculator")
+    print("do you wish to calculate again?")
